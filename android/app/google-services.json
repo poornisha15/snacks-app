@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575398367176",
+    "project_id": "theater-snacks-app",
+    "storage_bucket": "theater-snacks-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575398367176:android:55d02ce735ddeb7dc53afd",
+        "android_client_info": {
+          "package_name": "com.example.theater_snacks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575398367176-9eu6c01l2uib4rucon4r8h0euafa0m5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kXTB1BUndfgH4Clo3ywgEDU7xwh_NZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575398367176-9eu6c01l2uib4rucon4r8h0euafa0m5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
